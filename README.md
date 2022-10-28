@@ -1,7 +1,5 @@
 # hangmanGame
 
-Siz bu kodları copy paste yaparak adam asmaca oynadım dersiniz ben Pythonda sys modulünün argv niteliğini kullanmayı öğrenip, mini bir adam asmaca kodu yazıp,  githuba attığımı söylerim teşekkürler..
-
 
 
 
@@ -10,7 +8,7 @@ Before using the sys module I ran this code like this python hangman.py.When you
 
 
 
-I ran the same program as follows ['hangman.py,'cpsc231-lexic.txt'].Why did I do that because why not:).Anyway I added second element to the list which is txt.file name.Then I assigned the filename to the 2nd element of sys.argv in the code,as a result the filename we called was 'cpsc231-lexic.txt'.
+I ran the same program as follows ['hangman.py,'cpsc231-lexic.txt']. I added second element to the list which is txt.file name.Then I assigned the filename to the 2nd element of sys.argv in the code,as a result the filename we called was 'cpsc231-lexic.txt'.
 
 
 
